@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab51\lab51\bin\Debug\netcoreapp3.1\lab51.exe
+C:\Users\User\source\repos\lab51\lab51\bin\Debug\netcoreapp3.1\lab51.deps.json
+C:\Users\User\source\repos\lab51\lab51\bin\Debug\netcoreapp3.1\lab51.runtimeconfig.json
+C:\Users\User\source\repos\lab51\lab51\bin\Debug\netcoreapp3.1\lab51.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab51\lab51\bin\Debug\netcoreapp3.1\lab51.dll
+C:\Users\User\source\repos\lab51\lab51\bin\Debug\netcoreapp3.1\lab51.pdb
+C:\Users\User\source\repos\lab51\lab51\obj\Debug\netcoreapp3.1\lab51.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab51\lab51\obj\Debug\netcoreapp3.1\lab51.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab51\lab51\obj\Debug\netcoreapp3.1\lab51.AssemblyInfo.cs
+C:\Users\User\source\repos\lab51\lab51\obj\Debug\netcoreapp3.1\lab51.dll
+C:\Users\User\source\repos\lab51\lab51\obj\Debug\netcoreapp3.1\lab51.pdb
